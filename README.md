@@ -85,22 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1261047091/week.md">
-				monitoring-all-website
-			</a>
-		</td>
-		<td>
-			2026/10/4 4:53 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1261047091/small/week.png" height="20"> 2
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/736731255/week.md">
 				Daily-Weather-Report
 			</a>
@@ -197,7 +181,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/10/6 12:58 PM UTC</i></small>
+<small><i>Last updated on 2026/10/6 10:29 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
