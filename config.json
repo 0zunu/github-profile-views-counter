@@ -5,14 +5,16 @@
   "repository": [
     "0zunu",
     "azriel.id",
+    "website-template",
     "Destiny.Industries",
     "King-Genshin-StarRail-Stats",
-    "Announcements-Anime",
     "Status-Page-Advanced",
     "Daily-Weather-Report",
-    "School-Programs",
+    "Announcements-Anime",
     "AmeliaBot-Discord",
     "My-Awesome-Stars",
-    "website-template"
+    "School-Programs",
+    "downloader",
+    "holobyte"
   ]
 }
