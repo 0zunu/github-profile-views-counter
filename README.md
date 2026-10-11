@@ -21,18 +21,50 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/730933649/week.md">
-				github-profile-views-counter
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/306456465/week.md">
+				0zunu
 			</a>
 		</td>
 		<td>
-			2026/10/9 5:09 AM UTC
+			2026/10/9 5:10 AM UTC
 		</td>
 		<td>
-			140
+			235
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/730933649/small/week.png" height="20"> 749
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/306456465/small/week.png" height="20"> 3316
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1289184073/week.md">
+				azriel.id
+			</a>
+		</td>
+		<td>
+			2026/10/9 5:10 AM UTC
+		</td>
+		<td>
+			14
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1289184073/small/week.png" height="20"> 200
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1040885239/week.md">
+				Destiny.Industries
+			</a>
+		</td>
+		<td>
+			2026/10/7 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1040885239/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -149,39 +181,23 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/306456465/week.md">
-				0zunu
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1301340365/week.md">
+				website-template
 			</a>
 		</td>
 		<td>
-			2026/10/9 5:10 AM UTC
+			2026/10/7 12:00 AM UTC
 		</td>
 		<td>
-			235
+			0
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/306456465/small/week.png" height="20"> 3316
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1289184073/week.md">
-				azriel.id
-			</a>
-		</td>
-		<td>
-			2026/10/9 5:10 AM UTC
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1289184073/small/week.png" height="20"> 200
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1301340365/small/week.png" height="20"> 0
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/10/11 3:37 AM UTC</i></small>
+<small><i>Last updated on 2026/10/11 5:11 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
