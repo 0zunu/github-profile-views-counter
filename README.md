@@ -53,12 +53,28 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1301340365/week.md">
+				website-template
+			</a>
+		</td>
+		<td>
+			2026/10/9 12:00 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1301340365/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1040885239/week.md">
 				Destiny.Industries
 			</a>
 		</td>
 		<td>
-			2026/10/7 12:00 AM UTC
+			2026/10/9 12:00 AM UTC
 		</td>
 		<td>
 			0
@@ -81,22 +97,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/653294232/small/week.png" height="20"> 6439
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/738176371/week.md">
-				Announcements-Anime
-			</a>
-		</td>
-		<td>
-			2026/10/9 12:00 AM UTC
-		</td>
-		<td>
-			242
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/738176371/small/week.png" height="20"> 1972
 		</td>
 	</tr>
 	<tr>
@@ -133,18 +133,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/702971902/week.md">
-				School-Programs
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/738176371/week.md">
+				Announcements-Anime
 			</a>
 		</td>
 		<td>
 			2026/10/9 12:00 AM UTC
 		</td>
 		<td>
-			140
+			242
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 2482
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/738176371/small/week.png" height="20"> 1972
 		</td>
 	</tr>
 	<tr>
@@ -181,23 +181,71 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1301340365/week.md">
-				website-template
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/702971902/week.md">
+				School-Programs
+			</a>
+		</td>
+		<td>
+			2026/10/9 12:00 AM UTC
+		</td>
+		<td>
+			140
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/702971902/small/week.png" height="20"> 2482
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/1277628253/week.md">
+				downloader
 			</a>
 		</td>
 		<td>
 			2026/10/7 12:00 AM UTC
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1301340365/small/week.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/1277628253/small/week.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/651526254/week.md">
+				holobyte
+			</a>
+		</td>
+		<td>
+			2026/10/7 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/651526254/small/week.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/0zunu/github-profile-views-counter/tree/master/readme/744306580/week.md">
+				Paw-Paw
+			</a>
+		</td>
+		<td>
+			2026/10/7 12:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/0zunu/github-profile-views-counter/raw/master/graph/744306580/small/week.png" height="20"> 2
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/10/11 5:11 PM UTC</i></small>
+<small><i>Last updated on 2026/10/11 5:39 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
